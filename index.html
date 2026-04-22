@@ -9,7 +9,7 @@
 <meta name="description" content="Profesjonalne odczyty z Kronik Akaszy. Poznaj plan swojej duszy i uwolnij blokady.">
 <meta name="keywords" content="Kroniki Akaszy, odczyt duszy, rozwój duchowy, karma, sesje energetyczne">
 
-<!-- Podgląd Social Media (Open Graph) -->
+<!-- Podgląd Social Media  -->
 <meta property="og:title" content="Kroniki Akaszy | Odczyty Twojej Duszy">
 <meta property="og:description" content="Zajrzyj do swojej energetycznej księgi i uzyskaj jasność życiowej ścieżki.">
 <meta property="og:image" content="marta.jpg"> 
@@ -55,7 +55,6 @@
             height: 100%;
             z-index: -1;
             pointer-events: none;
-            /* Pozwala klikać przez canvas */
         }
 
         /* Nawigacja */
@@ -211,8 +210,8 @@
         
         /* Stylizacja obrazka logo */
         .main-logo {
-        height: 60px; /* Tutaj regulujesz wielkość logo */
-        width: auto; /* Zachowuje proporcje */
+        height: 60px; 
+        width: auto; 
         
         /* DODATEK: Złota poświata pasująca do tła WebGL */
         filter: drop-shadow(0 0 10px rgba(226, 176, 74, 0.4));
@@ -269,7 +268,7 @@
         cursor: pointer;
         }
         
-        /* Efekt po najechaniu na Twoje imię */
+        /* Efekt po najechaniu na imię */
         .dev-signature span:hover {
         color: #fff;
         text-shadow: 0 0 10px var(--gold);
@@ -479,11 +478,11 @@
         status.style.color = "#ff4d4d";
     });
 });
-// --- INTELIGENTNE LINKI (URL HASH) ---
+// --- INTELIGENTNE LINKI ---
 
 // Tworzymy obserwator, który sprawdza, która sekcja jest na ekranie
 const observerOptions = {
-threshold: 0.5 // Sekcja musi być widoczna w połowie
+threshold: 0.5 
 };
 
 const urlObserver = new IntersectionObserver((entries) => {
