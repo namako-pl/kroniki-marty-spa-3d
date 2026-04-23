@@ -7,7 +7,7 @@ A modern Single Page Application (SPA) designed to provide an immersive user exp
 
 An interactive, high-performance landing page created for an Akasha Records consultant. The project combines mystical aesthetics with advanced frontend technologies like WebGL and creative animations.
 
-![Project Preview](preview.jpg)
+![Project Preview](preview.JPG)
 
 ## ✨ Features
 
@@ -55,7 +55,7 @@ Instead of relying on often-delayed SMTP emails, I built a PHP bridge to the **T
 
 Interaktywna, wysokowydajna strona typu landing page stworzona dla konsultantki Kronik Akaszy. Projekt łączy mistyczną estetykę z nowoczesnymi technologiami frontendowymi, takimi jak WebGL, w celu wizualizacji „Kwantowego Pola Informacyjnego”.
 
-![Podgląd Projektu](preview.png)
+![Podgląd Projektu](preview.JPG)
 
 ## ✨ Główne Funkcje
 
